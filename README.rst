@@ -2,16 +2,16 @@
 Cookiecutter PyPackage
 ======================
 
-.. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
-     :target: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/
+.. image:: https://pyup.io/repos/github/stdtom/cookiecutter-pypackage-pipenv/shield.svg
+     :target: https://pyup.io/repos/github/stdtom/cookiecutter-pypackage-pipenv/
      :alt: Updates
 
-.. image:: https://travis-ci.org/audreyr/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
+.. image:: https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv.svg?branch=master
+    :target: https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv
 
 Cookiecutter_ template for a Python package.
 
-* GitHub repo: https://github.com/audreyr/cookiecutter-pypackage/
+* GitHub repo: https://github.com/stdtom/cookiecutter-pypackage-pipenv/
 * Documentation: https://cookiecutter-pypackage.readthedocs.io/
 * Free software: BSD license
 
@@ -26,21 +26,21 @@ Features
 * Auto-release to PyPI_ when you push a new tag to master (optional)
 * Command line interface using Click (optional)
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _Cookiecutter: https://github.com/cookiecutter/cookiecutter
 
 Build Status
 -------------
 
 Linux:
 
-.. image:: https://img.shields.io/travis/audreyr/cookiecutter-pypackage.svg
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
+.. image:: https://img.shields.io/travis/stdtom/cookiecutter-pypackage-pipenv.svg
+    :target: https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv
     :alt: Linux build status on Travis CI
 
 Windows:
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/audreyr/cookiecutter-pypackage?branch=master&svg=true
-    :target: https://ci.appveyor.com/project/audreyr/cookiecutter-pypackage/branch/master
+.. image:: https://ci.appveyor.com/api/projects/status/github/stdtom/cookiecutter-pypackage-pipenv?branch=master&svg=true
+    :target: https://ci.appveyor.com/project/stdtom/cookiecutter-pypackage-pipenv/branch/master
     :alt: Windows build status on Appveyor
 
 Quickstart
@@ -53,7 +53,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/stdtom/cookiecutter-pypackage-pipenv.git
 
 Then:
 
@@ -137,5 +137,5 @@ make my own packaging experience better.
 .. _`lgiordani/cookiecutter-pypackage`: https://github.com/lgiordani/cookiecutter-pypackage
 .. _`briggySmalls/cookiecutter-pypackage`: https://github.com/briggySmalls/cookiecutter-pypackage
 .. _github comparison view: https://github.com/tony/cookiecutter-pypackage-pythonic/compare/audreyr:master...master
-.. _`network`: https://github.com/audreyr/cookiecutter-pypackage/network
-.. _`family tree`: https://github.com/audreyr/cookiecutter-pypackage/network/members
+.. _`network`: https://github.com/stdtom/cookiecutter-pypackage-pipenv/network
+.. _`family tree`: https://github.com/stdtom/cookiecutter-pypackage-pipenv/network/members

@@ -82,7 +82,8 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created with Cookiecutter_ and the `stdtom/cookiecutter-pypackage-pipenv`_ project template, based on `audreyr/cookiecutter-pypackage`_.
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _Cookiecutter: https://github.com/cookiecutter/cookiecutter
+.. _`stdtom/cookiecutter-pypackage-pipenv`: https://github.com/stdtom/cookiecutter-pypackage-pipenv
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage

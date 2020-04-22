@@ -172,7 +172,7 @@ Before you submit a pull request, check that it meets these guidelines:
    the list in README.rst.
 
 3. The pull request should work for Python 3.5, 3.6 and 3.7, 3.8 and for PyPy. Check
-   https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv/pull_requests and
+   https://travis-ci.com/stdtom/cookiecutter-pypackage-pipenv/pull_requests and
    make sure that the tests pass for all supported Python versions.
 
 Add a New Test

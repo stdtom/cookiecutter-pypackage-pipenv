@@ -6,8 +6,8 @@ Cookiecutter PyPackage
      :target: https://pyup.io/repos/github/stdtom/cookiecutter-pypackage-pipenv/
      :alt: Updates
 
-.. image:: https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv.svg?branch=master
-    :target: https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv
+.. image:: https://travis-ci.com/stdtom/cookiecutter-pypackage-pipenv.svg?branch=master
+    :target: https://travis-ci.com/stdtom/cookiecutter-pypackage-pipenv
 
 Cookiecutter_ template for a Python package.
 
@@ -34,7 +34,7 @@ Build Status
 Linux:
 
 .. image:: https://img.shields.io/travis/stdtom/cookiecutter-pypackage-pipenv.svg
-    :target: https://travis-ci.org/stdtom/cookiecutter-pypackage-pipenv
+    :target: https://travis-ci.com/stdtom/cookiecutter-pypackage-pipenv
     :alt: Linux build status on Travis CI
 
 Windows:
@@ -121,7 +121,7 @@ I also accept pull requests on this, if they're small, atomic, and if they
 make my own packaging experience better.
 
 
-.. _Travis-CI: http://travis-ci.org/
+.. _Travis-CI: http://travis-ci.com/
 .. _Tox: http://testrun.org/tox/
 .. _Sphinx: http://sphinx-doc.org/
 .. _Read the Docs: https://readthedocs.io/

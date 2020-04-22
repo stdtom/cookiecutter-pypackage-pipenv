@@ -18,6 +18,8 @@ Click = "*"{% endif %}
 {% if cookiecutter.use_pytest == 'y' -%}
 pytest = "*"
 pytest-runner = "*"{% endif %}
+black = "==19.10b0"
+isort = "*"
 
 [packages]
 

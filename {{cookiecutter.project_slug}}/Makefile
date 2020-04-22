@@ -54,6 +54,10 @@ clean-test: ## remove test and coverage artifacts
 lint: ## check style with flake8
 	pipenv run flake8 {{ cookiecutter.project_slug }} tests
 
+format: ## run autoformat with isort and black
+	pipenv run isort
+	pipenv run black {{ cookiecutter.project_slug }} tests
+
 test: ## run tests quickly with the default Python
 {%- if cookiecutter.use_pytest == 'y' %}
 	pipenv run pytest
